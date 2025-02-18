@@ -1,5 +1,5 @@
 title: Bruno Bucciarati
 logo: /assets/img/profile_circle.png
-description: "If my code is buggy, then I'll just unzip it and fix it from within!"
-show_downloads: false
+# description: "If my code is buggy, then I'll just unzip it and fix it from within!"
+show_downloads: true
 theme: jekyll-theme-minimal
