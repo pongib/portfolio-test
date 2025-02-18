@@ -1,6 +1,6 @@
 title: Bruno Bucciarati
-logo: /assets/img/profile_circle.png
-description: "If my code is buggy, then I'll just unzip it and fix it from within!"
+# logo: /assets/img/profile_circle.png
+# description: "If my code is buggy, then I'll just unzip it and fix it from within!"
 show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
